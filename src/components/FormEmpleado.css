@@ -1,0 +1,149 @@
+/* FormEmpleado.css */
+
+.custom-modal .modal-content {
+    border-radius: 12px;
+    padding: 20px;
+    width: 800px;
+    height: 585px;
+    background-color: #f0f4f8; /* Color de fondo suave */
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+    color: #333;
+}
+
+.custom-modal .modal-header {
+    border-bottom: none;
+    display: flex;
+    justify-content: center;
+    background-color: #007bff; /* Color de fondo del encabezado */
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.custom-modal .modal-title {
+    font-weight: bold;
+    font-size: 1.8rem;
+    color: #fff; /* Título en blanco */
+}
+
+.custom-modal .modal-body {
+    padding: 20px;
+}
+
+.custom-modal .form-label {
+    color: #333;
+    font-weight: 500;
+    margin-bottom: 6px;
+}
+
+.custom-modal .form-control {
+    border-radius: 8px;
+    padding: 15px;
+    border: 1px solid #ced4da;
+}
+
+.custom-modal .input-group-text {
+    background-color: #6c757d;
+    color: #fff;
+    border: none;
+    border-radius: 8px 0 0 8px;
+}
+
+.custom-modal .btn-primary {
+    border: none;
+    border-radius: 6px;
+    
+    padding: 8px 16px;
+    font-weight: bold;
+    margin-top: 20px;
+    
+}
+
+.custom-modal .btn-agregar {
+    background-color: #007bff; /* Azul para Agregar */
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-weight: bold;
+}
+
+.custom-modal .btn-agregar:hover {
+    background-color: cornflowerblue; /* Efecto hover azul claro */
+}
+
+/* Estilos para el botón Actualizar (verde) */
+.custom-modal .btn-actualizar {
+    background-color: #28a745; /* Verde para Actualizar */
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-weight: bold;
+}
+
+.custom-modal .btn-actualizar:hover {
+    background-color: #218838; /* Efecto hover verde oscuro */
+}
+
+.custom-modal .btn-secondary {
+    
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.custom-modal .btn-danger {
+    
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.custom-modal .btn-primary:hover {
+    background-color:cornflowerblue;
+}
+
+
+.modal-header-update {
+    background-color: #28a745 !important; 
+    color: white; 
+}
+
+
+
+.custom-modal .btn-danger {
+    background-color: #dc3545;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 16px;
+    font-weight: bold;
+}
+
+.custom-modal .btn-danger:hover {
+    background-color: #c82333;
+}
+
+.custom-modal .text-danger {
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+.custom-modal .d-flex.justify-content-end {
+    justify-content: space-between !important; /* Espacio entre los botones */
+    
+}
+
+.custom-modal .btn-container {
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+
+
+
+
+

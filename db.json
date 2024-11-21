@@ -1,0 +1,49 @@
+{
+  "empleados": [
+    {
+      "id": "2",
+      "nombre": "Pedro",
+      "puesto": "Diseñador",
+      "salario": "1500",
+      "telefono": "926315212",
+      "correo": "asd@gmail.com",
+      "dni": "19560256"
+    },
+    {
+      "id": "4",
+      "nombre": "Jose",
+      "puesto": "Administrador",
+      "salario": "1600",
+      "telefono": "985623150",
+      "correo": "jos@gmail.com",
+      "dni": "99966623"
+    },
+    {
+      "id": "5",
+      "nombre": "Pepe",
+      "puesto": "Administrador",
+      "salario": "1600",
+      "telefono": "985623159",
+      "correo": "asqw@gmail.com",
+      "dni": "10033906"
+    },
+    {
+      "id": "6",
+      "nombre": "Mario",
+      "puesto": "Diseñador",
+      "salario": "1600",
+      "telefono": "926315210",
+      "correo": "m1213@gmail.com",
+      "dni": "99961111"
+    },
+    {
+      "id": "7",
+      "nombre": "Oscar",
+      "puesto": "Soporte Técnico",
+      "salario": "1500",
+      "telefono": "996232604",
+      "correo": "m123@gmail.com",
+      "dni": "72506233"
+    }
+  ]
+}
