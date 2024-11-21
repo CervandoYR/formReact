@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b99185c2.css",
-    "main.js": "/static/js/main.37d87df2.js",
-    "static/js/453.0f6eaa39.chunk.js": "/static/js/453.0f6eaa39.chunk.js",
-    "index.html": "/index.html",
-    "main.b99185c2.css.map": "/static/css/main.b99185c2.css.map",
-    "main.37d87df2.js.map": "/static/js/main.37d87df2.js.map",
-    "453.0f6eaa39.chunk.js.map": "/static/js/453.0f6eaa39.chunk.js.map"
+    "main.css": "/formReact/build/static/css/main.b99185c2.css",
+    "main.js": "/formReact/build/static/js/main.de2f7912.js",
+    "static/js/453.0f6eaa39.chunk.js": "/formReact/build/static/js/453.0f6eaa39.chunk.js",
+    "index.html": "/formReact/build/index.html",
+    "main.b99185c2.css.map": "/formReact/build/static/css/main.b99185c2.css.map",
+    "main.de2f7912.js.map": "/formReact/build/static/js/main.de2f7912.js.map",
+    "453.0f6eaa39.chunk.js.map": "/formReact/build/static/js/453.0f6eaa39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b99185c2.css",
-    "static/js/main.37d87df2.js"
+    "static/js/main.de2f7912.js"
   ]
 }
